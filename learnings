@@ -1,0 +1,14 @@
+MOST IMPORTANT FEATURES
+https://fastapi.tiangolo.com/features/
+
+1. Swagger - No need for POSTMAN for testing, call and test your API
+directly from the browser with documentation
+
+2. Supports Concurrency and async / await
+https://fastapi.tiangolo.com/async/#in-a-hurry
+
+
+
+----- commands -------------
+for running api - uvicorn 'filename -py without .py': 'fastAPI object' --reload
+example uvicorn main:app --reload
